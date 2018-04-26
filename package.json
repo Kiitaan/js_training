@@ -37,12 +37,5 @@
   "scripts": {
     "update": "git reset && git stash && git pull https://github.com/nan-ci/js.git master && git stash pop",
     "test": "./tester",
-   "test": "echo 'no tests'",
-   "server": "nodemon server --ignore client",
-   "client": "http-server client",
-  },
-  "dependencies": {
-    "standard": "^11.0.1",
-
   }
 }
