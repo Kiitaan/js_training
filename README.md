@@ -153,4 +153,4 @@ for `./tester` to work properly.*
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 [![Travis master](https://img.shields.io/travis/Kiitaan/js_training.svg)](https://travis-ci.org/Kiitaan/js_training)
-[![Travis dev](https://img.shields.io/travis/Kiitaan/js_training/dev.svg)](https://travis-ci.org/Kiitaan/js_training/master)
+[![Travis dev](https://img.shields.io/travis/Kiitaan/js_training/dev.svg)](https://travis-ci.org/Kiitaan/js_training/branches)
